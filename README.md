@@ -1,16 +1,19 @@
-# test2
+# AJ's Portfolio Application!
 
-A new Flutter project.
+Made with flutter and a little bit of <3
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+This project is a Flutter application designed to demonstrate the use of custom widgets, navigation, and state management. It includes a custom drawer menu with navigation items and a unique design element at the bottom. The application is built with a focus on clean architecture and maintainable code.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Custom Drawer Menu
+- Navigation with callback functions
+- Custom design elements
+- Responsive UI
+- Clean and maintainable code
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Check out the fully deployed app [HERE!](https://aj-portfolio-a8faa.web.app/)
+
+
